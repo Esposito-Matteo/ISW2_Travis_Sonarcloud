@@ -6,8 +6,8 @@
               as the first entry and export the buildfile again. --><project basedir="." default="build" name="ISW2_Travis_Sonarcloud">
     <property environment="env"/>
     <property name="debuglevel" value="source,lines,vars"/>
-    <property name="target" value="13"/>
-    <property name="source" value="13"/>
+    <property name="target" value="9"/>
+    <property name="source" value="9"/>
     <path id="ISW2_Travis_Sonarcloud.classpath">
         <pathelement location="bin"/>
     </path>
